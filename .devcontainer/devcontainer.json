@@ -23,6 +23,10 @@
         "editorconfig.editorconfig"
       ],
       "settings": {
+        /**
+         * Specifies the language server used for Python language support.
+         * The value "Pylance" indicates that the Pylance language server is used.
+         */
         "python.languageServer": "Pylance",
         "python.pythonPath": "/usr/bin/python3",
         "python.linting.pylintEnabled": true,
